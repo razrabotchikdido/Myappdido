@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Нур Намаз</string>
+    <string name="widget_description">Расписание намаза и обратный отсчет</string>
+    <string name="notification_channel_name">Время намаза и Азан</string>
+    <string name="notification_channel_desc">Уведомления о наступлении времени намаза с призывом на молитву</string>
+</resources>

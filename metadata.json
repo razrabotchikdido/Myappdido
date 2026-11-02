@@ -1,0 +1,6 @@
+{
+  "name": "Нур Намаз",
+  "description": "Точное расписание намаза по геолокации, компас Киблы, виджет на главный экран, азан, Коран с переводом и исламские напоминания.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
